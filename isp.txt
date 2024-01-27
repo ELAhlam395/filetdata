@@ -1,0 +1,9 @@
+aol.fr
+aol.com
+yahoo.fr
+yahoo.com
+gmail.com
+icloud.com
+hotmail.com
+outlook.com
+hotmail.fr
